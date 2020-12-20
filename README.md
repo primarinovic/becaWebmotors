@@ -3,10 +3,10 @@ projeto de automatização de testes @becaeveris
 
 Found us at:
 
-:bookmark_tabs: Jaqueline
-https://github.com/FreitasMoop
+:bookmark_tabs: <a href="https://github.com/FreitasMoop">[Jaqueline]</a> 
 
-:bookmark_tabs: Priscila
-https://github.com/primarinovic
+
+:bookmark_tabs: <a href="https://github.com/primarinovic">[Priscila]</a>
+
 
 
